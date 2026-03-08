@@ -1,2 +1,3 @@
 # Firestop-log-
-Log 
+Basically a electronic log book
+A.I. created
